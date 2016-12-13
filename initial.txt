@@ -1,1 +1,2 @@
-This is the start of using github
+1 This is the start of using github
+2 this is second commit
